@@ -21,7 +21,7 @@
 | 15. |Domain Agnostic Learning with Disentangled Representations|[ICML 2019](https://arxiv.org/abs/1904.12347)|[code](https://github.com/VisionLearningGroup/DAL)|DA - Classification|
 | 16. |Learning from Synthetic Data: Addressing Domain Shift for Semantic Segmentation|[CVPR 2018](https://arxiv.org/abs/1711.06969)|[code](https://github.com/swamiviv/LSD-seg)|DA_Segmentation|
 | 17. |Domain Adaptation for Semantic Segmentation with Maximum Squares Loss|[ICCV 2019](https://arxiv.org/abs/1909.13589)|[code](https://github.com/ZJULearning/MaxSquareLoss)|DA_Segmentation|
-| 18. |MLSL: Multi-Level Self-Supervised Learning for Domain Adaptation with Spatially Independent and Semantically Consistent Labeling|[WACV 2020](https://arxiv.org/abs/1909.13776)|DA_Segmentation|
+| 18. |MLSL: Multi-Level Self-Supervised Learning for Domain Adaptation with Spatially Independent and Semantically Consistent Labeling|[WACV 2020](https://arxiv.org/abs/1909.13776)|[code]()|DA_Segmentation|
 | 19. |Maximum Classifier Discrepancy for Unsupervised Domain Adaptation |[CVPR2018 Oral](https://arxiv.org/abs/1712.02560)|[code](https://github.com/mil-tokyo/MCD_DA)|DA_Segmentation|
 
 
