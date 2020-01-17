@@ -36,4 +36,5 @@
 | 5. |ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation| [CVPR 2019 Oral]()| [code](https://github.com/valeoai/ADVENT)| ADVENT |
 | 6. |All about Structure: Adapting Structural Information across Domains for Boosting Semantic Segmentation|[CVPR 2019 Poster]()|[code](https://github.com/a514514772/DISE-Domain-Invariant-Structure-Extraction)| DISE |
 | 7. | ACE: Adapting to Changing Environments for Semantic Segmentation |[ICCV 2019](https://arxiv.org/abs/1904.06268) | [pytorch](https://github.com/JarvisLL/ACE) | ACE |
-| 8.  | Taking A Closer Look at Domain Shift: Category-level Adversaries for Semantics Consistent Domain Adaptation| [CVPR 2019 Oral]()|[code](https://github.com/RoyalVane/CLAN)|CLAN |
+| 8.  | Taking A Closer Look at Domain Shift: Category-level Adversaries for Semantics Consistent Domain Adaptation| [CVPR 2019 Oral]()|[code](https://github.com/RoyalVane/CLAN)| CLAN |
+| 9. | Incremental Adversarial Domain Adaptation for Continually Changing Environments| [ICRA 2018](https://arxiv.org/abs/1712.07436)|[code](https://github.com/yamad07/IADA)|IADA|
